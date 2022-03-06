@@ -16,6 +16,7 @@
 
 nav {
   padding: 30px;
+  margin-block: inherit;
 }
 
 nav a {
